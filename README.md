@@ -1,2 +1,2 @@
 # sanguosha
-()https://gc1993.github.io/sanguosha/index.html
+(https://gc1993.github.io/sanguosha/index.html)
